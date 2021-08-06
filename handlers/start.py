@@ -19,7 +19,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "𝙑𝘾 𝙋𝙇𝘼𝙔𝙀𝙍⚡️", url="https://t.me/Roy_5488_bot"
+                        "𝙑𝘾 𝙋𝙇𝘼𝙔𝙀𝙍⚡️", url="https://t.me/ABHINAS25"
                     ),
                     InlineKeyboardButton(
                         "𝙁𝘼𝙏𝙃𝙀𝙍⚡️", url="https://t.me/abhinasroy"
@@ -27,7 +27,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "𝙂𝙍𝙊𝙐𝙋 𝙈𝙀 𝘿𝘼𝙇𝙊 ⚡️", url="https://t.me/Abhinas_34bot?startgroup=true"
+                        "𝙂𝙍𝙊𝙐𝙋 𝙈𝙀 𝘿𝘼𝙇𝙊 ⚡️", url="https://t.me/Roy_5488_bot?startgroup=true"
                     )
                 ]
             ]
