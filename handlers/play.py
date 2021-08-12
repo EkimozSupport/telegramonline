@@ -500,7 +500,7 @@ async def play(_, message: Message):
                 ],
                 [                         
                     InlineKeyboardButton(
-                       text="⭐ 𝙊𝙒𝙉𝙀𝙍 ⭐",
+                       text="⭐ owner⭐",
                        url='https://t.me/abhinasroy')
 
                 ]                             
