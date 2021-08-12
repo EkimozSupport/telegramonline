@@ -503,7 +503,7 @@ async def play(_, message: Message):
                        text="⭐ owner⭐",
                        url='https://t.me/abhinasroy')
 
-                [                            
+                ]                            
             ]
         )
     requested_by = message.from_user.first_name
