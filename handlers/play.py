@@ -503,10 +503,10 @@ async def play(_, message: Message):
                        text="⭐ owner⭐",
                        url='https://t.me/abhinasroy')
 
-                ]                             
+                [                            
             ]
         )
-        requested_by = message.from_user.first_name
+    requested_by = message.from_user.first_name
     await generate_cover(requested_by, title, views, duration, thumbnail)  
     file_path = await converter.convert(youtube.download(url))
   
