@@ -1,5 +1,5 @@
 # W2HMusic TELEGRAM VC MUSIC BOT 
-[![W2HMusic logo](https://telegra.ph/file/67e007e292fb42984700b.jpg)](https://t.me/abhinasroy)
+[![W2HMusic logo](https://telegra.ph/file/233805169085716287914.jpg)](https://t.me/kizilsancaksahibi)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -71,11 +71,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## The easiest way to deploy this Bot
 ### HEROKU
-<a href="https://heroku.com/deploy?template=https://github.com/roymusicplay/music_telegram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/EkimozSupport/telegramonline"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HMusicBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@TaladroFc/W2HMusicBot#main.py) 
 
 
 ### Mandatory Vars.
